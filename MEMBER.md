@@ -15,15 +15,9 @@ Daftar Anggota Kelompok
     <td>@andhikanugraha</td>
   </tr>
   <tr>
-    <td>13510033</td>
-    <td>Abraham Krisnanda Santoso</td>
-    <td>13510033@std.stei.itb.ac.id</td>
-    <td>@abrahamks</td>
-  </tr>
-  <tr>
-    <td>13510069</td>
-    <td>Jordan Fernando</td>
-    <td>13510069@std.stei.itb.ac.id</td>
-    <td>@dragoon20</td>
+    <td>13510091</td>
+    <td>Hanif Eridaputra</td>
+    <td>13510091@std.stei.itb.ac.id</td>
+    <td>@haniferidaputra</td>
   </tr>
 </table>
